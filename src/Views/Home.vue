@@ -1,11 +1,11 @@
 <template>
     <main>
-        <h1>HOME</h1>
+        <Navvar></Navvar>
     </main>
 </template>
     
 <script setup lang='ts'>
-    
+    import Navvar from '../components/Navar/Navar.vue'
 </script>
     
 <style>
